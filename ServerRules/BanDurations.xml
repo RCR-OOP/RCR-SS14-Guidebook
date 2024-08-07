@@ -1,17 +1,17 @@
 ﻿<Document>
-  # Ban Durations
+  # Продолжительность бана
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Баны могут быть обжалованы по адресу forum.ss14.io в разделе "Обжалование бана".
 
-  ## Temporary
-  Temporary bans will be lifted automatically after a certain amount of time. If they are a game ban, they will tell you how much time is remaining when you try to connect.
+  ## Временный
+  Временные баны будут автоматически сняты через определенное время. Если речь идет о запрете на игру, при попытке подключения вам сообщат, сколько времени осталось.
 
-  ## Indefinite
-  These bans will only be removed on a successful appeal on the forums. Any ban which doesn't tell you when it expires and doesn't specify otherwise can be presumed to be an indefinite ban.
+  ## Неопределенный
+  Эти баны будут сняты только после успешного обжалования на форумах. Любой запрет, в котором не указано, когда он истекает, и не указано иное, может считаться бессрочным.
 
-  ## Voucher
-  This is an indefinite ban which may only be appealed both with a successful appeal and which require a voucher of good behavior from the administrative team of a well-known or at least decently active SS13/SS14 server in order for the appeal to be considered. Voucher bans typically cannot be appealed for at least six months after being issued. Without a voucher, a player can only attempt to appeal a voucher ban once, and only if the ban was inappropriately placed. Voucher bans are typically only placed as a result of an unsuccessful appeal of an indefinite game ban by players with a history of bans and of causing issues.
+  ## Расписка
+  Это бессрочный бан, который может быть обжалован только в случае успешной апелляции, и для рассмотрения апелляции требуется подтверждение хорошего поведения от административной команды известного или, по крайней мере, достаточно активного сервера SS13/SS14. Как правило, запрет на использование ваучера не может быть обжалован в течение как минимум шести месяцев с момента его выдачи. Без ваучера игрок может попытаться обжаловать запрет на использование ваучера только один раз и только в том случае, если запрет был наложен ненадлежащим образом. Баны по ваучерам, как правило, накладываются только в результате безуспешной апелляции на бессрочный бан игры игроками, имеющими историю банов и вызывающих проблемы.
 
-  ## Permanent
-  This is a ban that is only appealable if the ban was inappropriately placed, including if the ban should not have been permanent. If the result of the appeal is that the ban was appropriately placed, the ban may not be appealed again and will not be lifted. These bans are extremely rare, but are applied to players who continually cause problems even after a voucher ban or users who have completely unacceptable behavior may be permanently removed.
+  ## Постоянный
+  Этот запрет может быть обжалован только в том случае, если он был введен ненадлежащим образом, в том числе если он не должен был быть постоянным. Если в результате обжалования будет установлено, что запрет был введен надлежащим образом, он не может быть обжалован повторно и не будет снят. Такие баны встречаются крайне редко, но применяются к игрокам, которые постоянно создают проблемы, даже после того, как банк ваучеров или пользователи с совершенно неприемлемым поведением могут быть удалены навсегда.
 </Document>

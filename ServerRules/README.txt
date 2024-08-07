@@ -1,5 +1,5 @@
-﻿These files contain Wizard's Den server rules. Since they reference Wizard's Den, they should not be used
-by other servers without at least enough modification to not mislead players into thinking that they are
-playing on Wizard's Den.
+﻿Эти файлы содержат правила сервера Wizard's Den. Поскольку Wizard's Den является эталонным, они не должны использоваться
+другими серверами без внесения в них изменений, по крайней мере, достаточных, чтобы игроки не думали, что они
+играют на Wizard's Den.
 
-The filenames used for the rules files are not themselves rules. Only the contents of the files are rules.
+Имена файлов, используемые для файлов правил, сами по себе правилами не являются. Правилами является только содержимое файлов.
