@@ -45,7 +45,7 @@
 </Box>
 
 <Box>
-  <GuideEntityEmbed Entity="ParticleAcceleratorControlBox" Caption="консоль управления УЧ"/>
+  <GuideEntityEmbed Entity="ParticleAcceleratorControlBox" Caption="Консоль управления УЧ"/>
   <GuideEntityEmbed Entity="ParticleAcceleratorFuelChamber"/>
   <GuideEntityEmbed Entity="CableHV"/>
 </Box>
@@ -55,9 +55,9 @@
 </Box>
 
 <Box>
-  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterStarboard" Caption="правый излучатель УЧ"/>
-  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterFore" Caption="центральный излучатель УЧ"/>
-  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterPort" Caption="левый излучатель УЧ"/>
+  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterStarboard" Caption="Правый излучатель УЧ"/>
+  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterFore" Caption="Центральный излучатель УЧ"/>
+  <GuideEntityEmbed Entity="ParticleAcceleratorEmitterPort" Caption="Левый излучатель УЧ"/>
 </Box>
 
 Ускоритель частиц (УЧ) - это сложное устройство, состоящее из нескольких частей, которое запускает ускоренные частицы из своих излучателей. Сами излучатели должны быть всегда повёрнуты по направлению к генератору.

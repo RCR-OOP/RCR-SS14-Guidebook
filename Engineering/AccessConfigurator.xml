@@ -3,7 +3,7 @@
   Конфигуратор доступа - это инструмент, позволяющий установить, кто из персонала может использовать те или иные устройства.
 
   <Box>
-	  <GuideEntityEmbed Entity="AccessConfigurator" Caption="access configurator"/>
+    <GuideEntityEmbed Entity="AccessConfigurator" Caption="Конфигуратор доступа"/>
   </Box>
 
   Настраиваемые устройства включают в себя шлюзы, защищённые ящики и шкафчики, а также аппараты с ограниченным доступом.

@@ -24,7 +24,7 @@
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolViper" Caption="Пистолеты и винтовки"/>
     <GuideEntityEmbed Entity="FireAxe" State="icon" Caption="Ближнее оружие"/>
-    <GuideEntityEmbed Entity="C4" Caption=" Взрывчатку"/>
+    <GuideEntityEmbed Entity="C4" Caption="Взрывчатку"/>
     <GuideEntityEmbed Entity="Syringe" Caption="Импланты"/>
     <GuideEntityEmbed Entity="ClothingBackpackDuffelSyndicate" Caption="Различные наборы"/>
   </Box>
